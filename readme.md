@@ -1,0 +1,1 @@
+hello, this is my first repository. i'm about to test all kinds of stuff in here and learn the basics of html, css and javascript.
